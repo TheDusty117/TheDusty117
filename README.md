@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React / Angular**
 
-- 👨‍💻 Some of my projects are visible at [www.gabrieledipassiodeveloper.com](www.gabrieledipassiodeveloper.com)
+- 👨‍💻 Check out My personal Portfolio Webiste [www.gabrieledipassiodeveloper.com](www.gabrieledipassiodeveloper.com)
 
 - 📫 How to reach me **gabrieledipassio@gmail.com**
 
